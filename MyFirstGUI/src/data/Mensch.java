@@ -50,6 +50,7 @@ public class Mensch {
 			for (int i = 0; i < getMenschenRead().size() ; i++)
 
 				System.out.println(getMenschenRead().get(i));
+		
 
 				
 
